@@ -1,0 +1,11 @@
+{
+    "device": "Arduino Smart Home Controller",
+    "temperature": 25.0,
+    "humidity": 55.0,
+    "light": 800,
+    "motion": false,
+    "fan": false,
+    "roomLight": false,
+    "automation": true,
+    "timestamp": "2026-08-10 18:30:00"
+}
